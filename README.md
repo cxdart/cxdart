@@ -79,6 +79,6 @@ I build and ship real software. I started TURTLESHELL from scratch — designed 
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelfattah-omar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelfattah-omar-b224a834a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cxdart)
 [![Website](https://img.shields.io/badge/TURTLESHELL-shell.portarab.com-1F3864?style=flat)](https://shell.portarab.com)
