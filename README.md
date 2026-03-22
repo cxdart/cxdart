@@ -61,8 +61,8 @@ I build and ship real software. I started TURTLESHELL from scratch — designed 
 - 🤖 I build automation systems that run reliably without babysitting
 - 📦 I handle the full stack: frontend, backend, deployment, server management, and networking
 - 🔍 Strong attention to detail — I track every bug, every change, every version
-- 🌏 Looking for developer opportunities in Japan — committed to relocating long-term
-- 🇯🇵 Currently studying Japanese
+- 🌏 Looking for developer opportunities in Japan and the EU — committed to relocating long-term
+- 🇩🇪 🇯🇵Currently studying Japanese & German
 
 ---
 
@@ -72,7 +72,7 @@ I build and ship real software. I started TURTLESHELL from scratch — designed 
 |----------|-------|
 | 🇸🇦 Arabic | Native |
 | 🇬🇧 English | Fluent |
-| 🇩🇪 German | Intermediate |
+| 🇩🇪 German | Intermediate — actively studying |
 | 🇯🇵 Japanese | Beginner — actively studying |
 
 ---
