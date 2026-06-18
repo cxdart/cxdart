@@ -1,8 +1,8 @@
-# Hey, I'm Abdelfattah 👋
+# Hey, I'm Abdelfattah
 **Full-Stack Developer & Founder of TURTLESHELL** 
-📍 Riyadh, Saudi Arabia &nbsp;|&nbsp; 🌏 Open to opportunities in the  EU, or japan
+📍 Riyadh, Saudi Arabia &nbsp;|&nbsp; 🌏 Open to opportunities worldwide
 
-I build and ship real software. I started TURTLESHELL from scratch — designed the architecture, wrote every line of code, deployed to a live Linux server, and kept it running for real clients. No team. No bootcamp. Just building.
+I build and ship real software. I started TURTLESHELL from scratch & designed the architecture, wrote every line of code, deployed to a live Linux server, and kept it running for real clients. No team. No bootcamp. Just building.
 
 ---
 
@@ -73,7 +73,7 @@ I build and ship real software. I started TURTLESHELL from scratch — designed 
 | 🇸🇦 Arabic | Native |
 | 🇬🇧 English | Fluent |
 | 🇩🇪 German | Intermediate — actively studying |
-| 🇯🇵 Japanese | Beginner — actively studying |
+
 
 ---
 
