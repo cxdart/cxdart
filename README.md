@@ -56,13 +56,12 @@ I build and ship real software. I started TURTLESHELL from scratch & designed th
 
 ## 🧠 About Me
 
-- 🏗️ **Self-taught** — everything I know came from building real things under real pressure
-- 🔒 **Network admin** — I configure and manage mesh VPN infrastructure (ZeroTier, Netbird) for secure remote access
-- 🤖 I build automation systems that run reliably without babysitting
-- 📦 I handle the full stack: frontend, backend, deployment, server management, and networking
-- 🔍 Strong attention to detail — I track every bug, every change, every version
-- 🌏 Looking for developer opportunities in Japan and the EU — committed to relocating long-term
-- 🇩🇪 🇯🇵Currently studying Japanese & German
+- 🏗️ **Self-taught**: everything I know came from building real things under real pressure
+- 🔒 **Network admin**: I configure and manage mesh VPN infrastructure (ZeroTier, Netbird) for secure remote access
+- 🤖**Automation** I build automation systems that run reliably without babysitting
+- 📦**Wowrkflow** I handle the full stack: frontend, backend, deployment, server management, and networking
+- 🔍 **Research** Strong attention to detail — I track every bug, every change, every version
+- 🌏 **Worldwide** Looking for developer opportunities worldwide, remotely, and committed to relocating long-term
 
 ---
 
@@ -77,7 +76,7 @@ I build and ship real software. I started TURTLESHELL from scratch & designed th
 
 ---
 
-## 📫 Get in Touch
+## 📫 Get in Touch!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelfattah-omar-b224a834a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cxdart)
