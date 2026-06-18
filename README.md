@@ -11,13 +11,13 @@ I build and ship real software. I started TURTLESHELL from scratch & designed th
 
 **What I built:**
 
-- 🌐 **Full-stack web platform** — Next.js 16 + React 19 + TypeScript + Supabase + Tailwind CSS
-- 🤖 **Automation engine** — Production Python/Selenium bot with anti-detection, cross-platform (Windows + Linux headless)
-- 🔧 **Server infrastructure** — Linux + Nginx + SSH management scripts, deployed and maintained live
-- 🔒 **Mesh VPN networking** — ZeroTier & Netbird for secure remote server access and infrastructure management
-- ☁️ **Cloud & DNS** — Cloudflare for DNS, DDoS protection, and SSL — cPanel for server & hosting management
-- 📧 **Email services** — Transactional email via Nodemailer & Resend
-- 🔐 **Auth system** — Supabase authentication with OAuth, protected routes, and session management
+- 🌐 **Full-stack web platform**: Next.js 16 + React 19 + TypeScript + Supabase + Tailwind CSS
+- 🤖 **Automation engine**: Production Python/Selenium bot with anti-detection, cross-platform (Windows + Linux headless)
+- 🔧 **Server infrastructure**: Linux + Nginx + SSH management scripts, deployed and maintained live
+- 🔒 **Mesh VPN networking**: ZeroTier & Netbird for secure remote server access and infrastructure management
+- ☁️ **Cloud & DNS**: Cloudflare for DNS, DDoS protection, and SSL — cPanel for server & hosting management
+- 📧 **Email services**: Transactional email via Nodemailer & Resend
+- 🔐 **Auth system**: Supabase authentication with OAuth, protected routes, and session management
 
 ---
 
