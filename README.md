@@ -6,8 +6,8 @@ I build and ship real software. I started TURTLESHELL from scratch & designed th
 
 ---
 
-## 🐢 TURTLESHELL — Live Company
-> A software company I founded, built, and operate. Live at **[shell.portarab.com](https://shell.portarab.com)**
+## 🐢 TURTLESHELL — Live StartUp
+> A software Startup company I founded, built, and actively operate. Live at **[shell.portarab.com](https://shell.portarab.com)**
 
 **What I built:**
 
